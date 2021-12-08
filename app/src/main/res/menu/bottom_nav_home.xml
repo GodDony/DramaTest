@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_search_user"
+        android:icon="@drawable/selector_bottom_nav_1"
+        android:title="@string/term_home" />
+    <item
+        android:id="@+id/menu_bookmark"
+        android:icon="@drawable/selector_bottom_nav_2"
+        android:title="@string/term_bookmark" />
+</menu>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DramaTest</string>
+    <string name="term_home">홈</string>
+    <string name="term_bookmark">즐겨찾기</string>
+    <string name="term_search">검색</string>
+    <string name="term_search_or_jump_to">Search or jump to…</string>
+
+    <!-- Error-->
+    <string name="error_empty_search">검색어를 입력해주세요.</string>
+    <string name="error_empty_user">유저가 없습니다.</string>
+
+    <!--  Network Error  -->
+    <string name="error_network_params">잘못된 파라미터 입니다.</string>
+    <string name="error_network_server">관리자에게 문의해주세요.</string>
+    <string name="error_exception">알수없는 오류 입니다.</string>
+</resources>
